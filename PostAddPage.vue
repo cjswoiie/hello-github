@@ -1,5 +1,6 @@
 <template>
     <div class="form-container-test-code">
+        <div class="version3s"></div>
         <PostAddForm></PostAddForm>
     </div>
 </template>
