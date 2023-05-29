@@ -16,3 +16,7 @@ export default {
 </script>
 
 <style></style>
+
+## 병합하기 2
+ - 헤드 브랜치에 추가적인 커밋이 생기는 경우
+ - 진짜 병합이 필요해진다.
