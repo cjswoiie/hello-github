@@ -30,4 +30,4 @@ export default {
  - 커밋이 날아감.
  - 여럽네.......
 
-## branch 만들어 되돌리기.
+## reset 과 달리 편리.
